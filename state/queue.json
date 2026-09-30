@@ -27,7 +27,8 @@
     "title": "Best AI Podcast Editing Tools (2026)",
     "keyword": "ai podcast editing software",
     "type": "roundup",
-    "done": false
+    "done": true,
+    "file": "content/posts/best-ai-podcast-tools.md"
   },
   {
     "slug": "jasper-review",
