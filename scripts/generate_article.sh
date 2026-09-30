@@ -24,12 +24,18 @@ fi
 GEN_OK=0
 BASE_URL="${GX10_BASE_URL:-http://10.10.10.40:8888/v1}"
 MODEL="${GX10_MODEL:-glm-5.3-flash-nvfp4}"
+RELATED=""
+if SLUGS=$(jq -r '[.[]|select(.done==true)][0:10][]|" - \(.["title"]) → link path: /posts/\(.["slug"])/ (\(."keyword"))"' state/queue.json 2>/dev/null) && [ -n "$SLUGS" ]; then
+  RELATED="Already published on this site (link naturally to 1-3 of these where relevant, using Hugo relref shortcodes, e.g. [Otter.ai review]({{< relref \"/posts/otter-ai-review\" >}})):
+$SLUGS
+"
+fi
 PROMPT="You are a senior affiliate-content writer. Write a complete, honest, well-structured blog post in Markdown for a static site about AI and productivity software.
 
 Topic type: $TYPE
 Title: $TITLE
 Primary keyword: $KEYWORD
-
+$RELATED
 Requirements:
 - 900-1400 words, H2/H3 structure, comparison table where useful
 - factual, current to your knowledge; avoid invented exact prices (write 'see current pricing')

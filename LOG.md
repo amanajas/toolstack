@@ -21,3 +21,8 @@
 - Fixed queue-restoration bug (earlier map/select dropped 28 topics — restored).
 - generate_article.sh now strips the duplicate H1 from generated bodies.
 - Verified: hugo build 15 pages, public/ served OK; empty leftover artifact from an interrupted run removed; queue intact (27 remaining).
+
+## 2026-09-30 (update 3)
+- BUG (user-reported): all links broken at github.io URL. Cause: baseURL pointed at soundfrequency.online with no DNS. My earlier verification checked only homepage 200 — insufficient. Fixed via relativeURLs + relative home link; user lesson persisted in notes/lessons-mine.md.
+- Redeployed, verified ALL 7 URLs externally: all 200, links relative on subpages too.
+- Still NOT done: DNS records in Squarespace (human), affiliate signups (human), daily cron (not yet approved).

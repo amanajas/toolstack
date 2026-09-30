@@ -19,7 +19,8 @@
     "title": "Best AI Video Editors for Creators (2026)",
     "keyword": "best ai video editor",
     "type": "roundup",
-    "done": false
+    "done": true,
+    "file": "content/posts/best-ai-video-editors.md"
   },
   {
     "slug": "best-ai-podcast-tools",
@@ -208,6 +209,216 @@
     "title": "Best AI Note-Taking Apps (2026)",
     "keyword": "ai note taking app",
     "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "gamma-review",
+    "title": "Gamma Review: AI Presentation Builder Tested",
+    "keyword": "gamma app review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "beautiful-ai-review",
+    "title": "Beautiful.ai Review: Smart Slide Decks",
+    "keyword": "beautiful ai review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "tome-review",
+    "title": "Tome Review: Storytelling Presentations",
+    "keyword": "tome app review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-resume-builders",
+    "title": "Best AI Resume Builders Compared (2026)",
+    "keyword": "ai resume builder",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "rezi-review",
+    "title": "Rezi Review: AI Resume Optimization",
+    "keyword": "rezi review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "kickresume-review",
+    "title": "Kickresume Review: AI Career Documents",
+    "keyword": "kickresume review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-meeting-assistants",
+    "title": "Best AI Meeting Assistants Compared (2026)",
+    "keyword": "ai meeting assistant",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "fireflies-review",
+    "title": "Fireflies.ai Review: Meeting Intelligence",
+    "keyword": "fireflies ai review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "tldv-review",
+    "title": "tl;dv Review: Meeting Recorder for Async Teams",
+    "keyword": "tldv review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "fathom-review",
+    "title": "Fathom Review: Free AI Notetaker Worth It?",
+    "keyword": "fathom notetaker review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "supernormal-review",
+    "title": "Supernormal Review: AI Meeting Notes",
+    "keyword": "supernormal review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "perplexity-pro-review",
+    "title": "Perplexity Pro Review: Is the Subscription Worth It?",
+    "keyword": "perplexity pro review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "you-com-review",
+    "title": "You.com Review: AI Search Alternative",
+    "keyword": "you com review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "phind-review",
+    "title": "Phind Review: AI Search for Developers",
+    "keyword": "phind review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-voice-cloning",
+    "title": "Best AI Voice Cloning Tools Compared (2026)",
+    "keyword": "ai voice cloning",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "murf-review",
+    "title": "Murf Review: AI Voiceover Studio",
+    "keyword": "murf ai review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "playht-review",
+    "title": "Play.ht Review: AI Text to Speech",
+    "keyword": "play ht review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-meeting-schedulers",
+    "title": "Best AI Scheduling Assistants (2026)",
+    "keyword": "ai scheduling assistant",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "reclaim-review",
+    "title": "Reclaim.ai Review: AI Calendar Management",
+    "keyword": "reclaim ai review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "motion-review",
+    "title": "Motion Review: AI Productivity Suite",
+    "keyword": "motion app review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-email-clients",
+    "title": "Best AI Email Clients Compared (2026)",
+    "keyword": "ai email client",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "superhuman-review",
+    "title": "Superhuman Review: Premium AI Email",
+    "keyword": "superhuman email review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "shortwave-review",
+    "title": "Shortwave Review: Gmail with AI",
+    "keyword": "shortwave review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-ux-design-tools",
+    "title": "Best AI UX Design Tools (2026)",
+    "keyword": "ai ux design tools",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "figma-ai-review",
+    "title": "Figma AI Review: Design Intelligence",
+    "keyword": "figma ai review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "uxpilot-review",
+    "title": "Uxpilot Review: AI Wireframing",
+    "keyword": "uxpilot review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "best-ai-code-assistants",
+    "title": "Best AI Coding Assistants Compared (2026)",
+    "keyword": "best ai coding assistant",
+    "type": "roundup",
+    "done": false
+  },
+  {
+    "slug": "cursor-review",
+    "title": "Cursor Review: The AI Code Editor",
+    "keyword": "cursor editor review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "copilot-review",
+    "title": "GitHub Copilot Review: 2026 Verdict",
+    "keyword": "github copilot review",
+    "type": "review",
+    "done": false
+  },
+  {
+    "slug": "tabnine-review",
+    "title": "Tabnine Review: Private AI Coding",
+    "keyword": "tabnine review",
+    "type": "review",
     "done": false
   }
 ]
