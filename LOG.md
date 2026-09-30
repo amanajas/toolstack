@@ -31,3 +31,12 @@
 - Renamed project+repo to toolstack (user low-exposure preference); verified new URL 200, old 404, cron path updated.
 - User checked empty bullets — treated as report to verify (HTML scan shows none; awaiting page pointer).
 - Daily plan agreed: user does DNS → affiliate signups → Search Console; agent does CTA layout upgrade + link insertion.
+## 2026-09-30 (afternoon): Domain cutover completed
+- Bought toolstack.page (user, Squarespace). CNAME file + hugo.toml baseURL updated; brand "Tool Stack Reviews"; queue restored to general niche order (60 topics, no prio).
+- GitHub Pages: custom domain set via API, TLS cert approved (toolstack.page + www, expires 2026-12-29), HTTPS enforced, HTTP→HTTPS 301 verified.
+- Verified live: https://toolstack.page/ 200, /terms/ 200, /disclosure/ 200, /sitemap.xml 200.
+- Content now 5 articles (best-ai-podcast-tools generated mid-day via daily.sh, run 36723741842 success). Article 6 (jasper-review) scheduled cron 06:00.
+- New pages: terms.md (ToS). Logo static/logo.png published.
+- LinkedIn company page created by user: https://www.linkedin.com/company/toolstack-reviews/
+- PartnerStack profile/applications: user completing (affiliate+publisher, Germany, EU audience).
+- Pending: Impressum needs user data (registered name/address/email/tax-ID). Affiliate links = placeholders until program approvals.
