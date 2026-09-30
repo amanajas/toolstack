@@ -26,3 +26,8 @@
 - BUG (user-reported): all links broken at github.io URL. Cause: baseURL pointed at soundfrequency.online with no DNS. My earlier verification checked only homepage 200 — insufficient. Fixed via relativeURLs + relative home link; user lesson persisted in notes/lessons-mine.md.
 - Redeployed, verified ALL 7 URLs externally: all 200, links relative on subpages too.
 - Still NOT done: DNS records in Squarespace (human), affiliate signups (human), daily cron (not yet approved).
+
+## 2026-09-30 (update 4)
+- Renamed project+repo to toolstack (user low-exposure preference); verified new URL 200, old 404, cron path updated.
+- User checked empty bullets — treated as report to verify (HTML scan shows none; awaiting page pointer).
+- Daily plan agreed: user does DNS → affiliate signups → Search Console; agent does CTA layout upgrade + link insertion.

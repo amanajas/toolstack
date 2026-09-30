@@ -2,11 +2,11 @@ baseURL = 'https://soundfrequency.online/'
 canonifyURLs = false
 relativeURLs = true
 languageCode = 'en'
-title = 'ToolStack Reviews'
+title = 'Sound Frequency'
 enableRobotsTXT = true
 
 [params]
-  description = 'Honest, agent-researched reviews of AI tools and productivity software.'
+  description = 'Sound Frequency: honest, agent-researched reviews of AI voice, audio, and podcast software.'
 
 [markup]
   [markup.highlight]
