@@ -1,4 +1,4 @@
-# affiliate-engine — automated affiliate content site
+# toolstack — automated affiliate content site
 
 ## Goal
 Build a programmatic-SEO content site in the **"AI tools & productivity software"** niche that earns **≥ €200/month** through recurring SaaS affiliate commissions, with the agent doing 90% of the work.

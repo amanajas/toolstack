@@ -18,7 +18,7 @@ LLM_BACKEND=claude-cli bash scripts/build.sh   # or ollama once the service is h
 To automate daily generation once a backend works:
 ```
 crontab -e
-0 6 * * * /bin/bash /home/ta/projects/affiliate-engine/scripts/build.sh >> /home/ta/projects/affiliate-engine/state/cron.log 2>&1
+0 6 * * * /bin/bash /home/ta/projects/toolstack/scripts/build.sh >> /home/ta/projects/toolstack/state/cron.log 2>&1
 ```
 
 Honest note: no backend on this box currently produces text from a script. Until one is fixed, the pipeline still builds and deploys; the parent agent can write articles manually.
