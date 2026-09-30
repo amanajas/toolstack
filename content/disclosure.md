@@ -1,3 +1,7 @@
-# Disclosure page
+---
+title: "Disclosure"
+date: 2026-09-30
+draft: false
+---
 
-On this site some outbound links are affiliate links. If you click one and buy a subscription, we may earn a commission at no extra cost to you. We only recommend tools the research process scores well; commissions do not influence rankings.
+Some outbound links on this site are affiliate links. If you click one and subscribe, we may earn a commission at no extra cost to you. Commissions never decide rankings — see each article methodology section.
