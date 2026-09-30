@@ -1,4 +1,6 @@
 baseURL = 'https://soundfrequency.online/'
+canonifyURLs = false
+relativeURLs = true
 languageCode = 'en'
 title = 'ToolStack Reviews'
 enableRobotsTXT = true
