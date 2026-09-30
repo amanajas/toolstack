@@ -1,0 +1,6 @@
+body { max-width: 44rem; margin: 2rem auto; padding: 0 1rem; font: 16px/1.6 system-ui, sans-serif; }
+header a { font-weight: 700; text-decoration: none; }
+footer { border-top: 1px solid #ddd; margin-top: 3rem; padding-top: 1rem; color: #666; font-size: .9rem; }
+time { color: #666; font-size: .9rem; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: .4rem .6rem; text-align: left; }

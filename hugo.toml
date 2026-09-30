@@ -1,0 +1,11 @@
+baseURL = 'https://soundfrequency.online/'
+languageCode = 'en'
+title = 'ToolStack Reviews'
+enableRobotsTXT = true
+
+[params]
+  description = 'Honest, agent-researched reviews of AI tools and productivity software.'
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
