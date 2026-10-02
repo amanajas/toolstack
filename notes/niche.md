@@ -13,3 +13,8 @@
 
 ## Update log
 - 2026-09-30: niche selected, queue seeded with 30 topics.
+
+## Name-ecosystem check (2026-10-02)
+- web_search: several "ToolStack"/"Tool Stack" sites exist, incl. toolstack.net (AI-tool reviews — same niche), toolstack.io (productivity tools), thetoolstack.co (software reviews), toolstack.co.uk (SME software).
+- Assessment: "Tool Stack" is a weak, largely descriptive phrase — German law (§8 MarkenG) resists monopolizing descriptive terms; no sign of a dominant registered trademark. We own toolstack.page.
+- Decision: proceed under "Tool Stack", two-word spelling, avoid any copy of competitors' wording, and keep this dated decision on file in case a future dispute needs a paper trail.
