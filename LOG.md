@@ -40,3 +40,9 @@
 - LinkedIn company page created by user: https://www.linkedin.com/company/toolstack-reviews/
 - PartnerStack profile/applications: user completing (affiliate+publisher, Germany, EU audience).
 - Pending: Impressum needs user data (registered name/address/email/tax-ID). Affiliate links = placeholders until program approvals.
+
+## 2026-10-02 — Google clearance track (from session-2026-10-02.md)
+- Contract scanned (30pp): §11.1 non-compete OK; §11.2 = prior authorization REQUIRED before new outside interests → sequence changed: Google approval BEFORE Gewerbeanmeldung.
+- Voice guidance transcripts (allow/block + IARC) saved locally; top-partner affiliate block-list rule adopted for queue.
+- IARC submitted by user; outside-activity form answers finalized; recordings: 'Thiago Amanajas Tool Stack', Freising online form prepped, Impressum draft pending address+email.
+- Name-ecosystem check recorded (see notes/niche.md); mon. rule: no affiliate with block-list vendors.
