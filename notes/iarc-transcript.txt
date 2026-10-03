@@ -1,0 +1,32 @@
+[0-14]  Okay, I will read now the Invention Assignment Review Committee, IARC.
+[14-20]  As part of your employment agreement, Google most likely owns intellectual property, IP,
+[20-22]  you create while at the company.
+[22-28]  Because Google's business interests are so wide and wired, this likely applies to any
+[28-35]  personal project you have, that includes new development on personal projects you created
+[35-38]  prior to employment at Google.
+[38-43]  However, we understand and sympathize with the desire to explore and ship technology
+[43-45]  outside of Google.
+[45-50]  To accommodate this, and to support Google's and engineers' creativity, we created the
+[50-56]  Invention Assignment Review Committee, IARC.
+[56-62]  This group reviews a given employee's project and will provide guidelines for how to keep
+[62-64]  that project separate from Google.
+[64-70]  We don't approve every project submitted through this process, but, historically, we
+[70-75]  have been able to rapidly approve the vast majority of them.
+[75-80]  You only need to go through this process if you want a copyright released to something.
+[80-86]  If you don't mind Google retaining copyright and just want to open source, seriously consider
+[86-91]  releasing it through go-releasing or go-patching.
+[91-97]  Google is proud to release a great deal of open source code, and you can still list yourself
+[97-103]  as the author when using this process.
+[103-111]  The go-patching process, specifically, is much faster than IARC, and is preferred mechanism
+[111-115]  to patching existing projects.
+[115-124]  The IARC process only opens to full-time employees in good standing.
+[124-129]  In terms, TBCs, employees, and people are ineligible.
+[129-138]  The IARC only assigns the copyrights in your project upon approval.
+[138-145]  It does not assign any patent rights or other IP rights Google may own.
+[145-152]  IARC does not require that approved projects be released as an open source.
+[152-158]  IARC reviews its voluntary service Google provides to employees, and it does not require
+[158-162]  either by employment agreement or local labor laws.
+[162-168]  In particular, employment law or contracts may define rights you may have to your personal
+[168-169]  project.
+[169-174]  However, you may still need to seek an ownership determination with regard to potential patents
+[174-183]  rights, as well as determination with respect to Google or to code of conduct of Google.

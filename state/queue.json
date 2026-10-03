@@ -35,7 +35,8 @@
     "title": "Jasper AI Review: Features, Pricing, and Who It's For",
     "keyword": "jasper ai review",
     "type": "review",
-    "done": false
+    "done": true,
+    "file": "content/posts/jasper-review.md"
   },
   {
     "slug": "copy-ai-review",
