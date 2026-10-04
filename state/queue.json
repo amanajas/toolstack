@@ -43,7 +43,8 @@
     "title": "Copy.ai Review: Features, Pricing, and Alternatives",
     "keyword": "copy ai review",
     "type": "review",
-    "done": false
+    "done": true,
+    "file": "content/posts/copy-ai-review.md"
   },
   {
     "slug": "descript-review",
