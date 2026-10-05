@@ -51,7 +51,8 @@
     "title": "Descript Review: AI Video & Podcast Editing",
     "keyword": "descript review",
     "type": "review",
-    "done": false
+    "done": true,
+    "file": "content/posts/descript-review.md"
   },
   {
     "slug": "otter-ai-review",
