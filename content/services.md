@@ -1,48 +1,43 @@
 ---
 title: "Private AI Assistant — Your Files Stay Private"
-description: "Toolstack installs a private AI assistant for your business: a capable AI model on your own hardware, with your client files never leaving your infrastructure."
+description: "Toolstack delivers a private AI assistant as a finished product: prepared on our own hardware, handed to you ready to use, with your client files never sent to any cloud."
 ---
 
 A private AI assistant is like having a capable colleague who has read all your
 documents — and who cannot leak them. It is proven, openly available AI software
-that I install and configure on hardware you control. It answers questions about
-your files, drafts and summarizes your work, and never sends a single byte of your
-client data to a third-party service.
+that I prepare for you and hand over as a finished, ready-to-use product.
 
-## The rule we set up around
+## How it works
 
-**Your client files stay private. Always.** Documents are stored and processed on
-your own server or a dedicated machine in your office. No cloud AI provider ever
-sees them. We set it up so this is enforced by architecture, not by policy — there
-is simply no path from your files to the internet.
+1. **You come to me** and describe what the assistant should do and which
+   documents it should know.
+2. **I prepare everything on my own hardware.** The assistant is built, tested,
+   and locked down before you ever receive it. Your files are handled on my
+   equipment under the same privacy rule — nothing goes to any cloud service.
+3. **You receive a finished product**: the assistant on its own machine (or as a
+   package ready to run on yours), with documentation and a recorded walkthrough
+   instead of live training.
 
-## What the assistant does
+## The privacy rule
 
-- **Answers questions about your documents** — contracts, cases, patient or client
-  records, policies — reading your whole document corpus, not fragments
-- **Connects to the software your team already uses** — your CRM, Google
-  Workspace, document store — with the assistant running inside your network, so
-  the data moves only between your own systems
-- **Serves your whole team** through a simple web interface, with per-role access
-- **Uses a capable, current AI model** — modern assistant capability, on your
-  hardware
+**Your client files stay private. Always.** Nothing is sent to any cloud AI
+provider — there is no account, no API key, no subscription to any external AI
+service. The assistant works from its own storage, offline if you want.
+
+## What the assistant can do
+
+- **Answer questions about a defined set of documents** — contracts, cases,
+  records, policies — reading the whole corpus, not fragments
+- **Draft and summarize** based on those documents
+- **Run without any internet connection**, so nothing can leave the machine
 
 ## What I don't do
 
-- **No consulting** — I don't advise on your AI strategy or review your plans. I
-  install and deliver working systems; I don't sell opinions.
-- **No coaching** — I don't teach courses or train your staff beyond the handoff
-  session for the system I installed.
-
-If you need advice rather than a working system, I'm not the right hire — and I'll
-say so instead of selling you the wrong thing.
-
-## How engagements work
-
-Fixed price, clear deliverables, no open-ended consulting. Every project ends with
-a working assistant, documentation, and a handoff session for your team. If we
-cannot show you the result on a screen-share before you commit, we don't deserve
-the job.
+- **No consulting** — I don't advise on your AI strategy or review your plans.
+- **No coaching** — you get documentation and a recorded walkthrough, not live
+  training sessions.
+- **No working inside your systems** — I never need access to your network, your
+  CRM, or your accounts. I prepare the product; you own and operate it.
 
 **Contact:** [feedback@toolstack.page](mailto:feedback@toolstack.page) ·
 [Upwork profile](https://www.upwork.com/freelancers/~) <!-- add your profile URL after registering -->
