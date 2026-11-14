@@ -1,9 +1,9 @@
 ---
 title: "Who You're Working With"
-description: "Thiago Amanajas — Toolstack. End-to-end projects delivered with a private AI assistant; client files never leave the private setup."
+description: "Toolstack — end-to-end projects delivered with a private AI assistant; client files never leave the private setup."
 ---
 
-## Thiago Amanajas — Toolstack
+## Toolstack
 
 I take on end-to-end projects and deliver finished results. The work is done
 with a private AI assistant on my own infrastructure — so whatever you hand me
