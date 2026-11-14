@@ -20,8 +20,9 @@ is simply no path from your files to the internet.
 
 - **Answers questions about your documents** — contracts, cases, patient or client
   records, policies — reading your whole document corpus, not fragments
-- **Works with your existing tools** — your CRM, Google Workspace, document store —
-  without the data leaving your network
+- **Connects to the software your team already uses** — your CRM, Google
+  Workspace, document store — with the assistant running inside your network, so
+  the data moves only between your own systems
 - **Serves your whole team** through a simple web interface, with per-role access
 - **Uses a capable, current AI model** — modern assistant capability, on your
   hardware
