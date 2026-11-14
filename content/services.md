@@ -27,8 +27,6 @@ assistant that processes your work runs on my own hardware, behind my own walls.
 
 - **No consulting** — I don't advise on AI strategy or review your plans.
 - **No coaching** — no courses, no live training sessions.
-- **No working inside your systems** — I never need access to your network,
-  your CRM, or your accounts.
 
 **Contact:** [feedback@toolstack.page](mailto:feedback@toolstack.page) ·
 [Upwork profile](https://www.upwork.com/freelancers/~) <!-- add your profile URL after registering -->
