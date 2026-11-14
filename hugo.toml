@@ -2,7 +2,7 @@ baseURL = 'https://toolstack.page/'
 canonifyURLs = false
 relativeURLs = true
 languageCode = 'en'
-title = 'Tool Stack Reviews'
+title = 'Tool Stack'
 enableRobotsTXT = true
 
 [params]

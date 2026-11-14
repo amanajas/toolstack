@@ -9,7 +9,7 @@
   <a href="/services/">How it works →</a>
 </div>
 
-<h2>Latest reviews</h2>
+<h2>Honest reviews of AI and productivity software</h2>
 <ul>
   {{ range first 20 (where .Site.RegularPages "Section" "posts") }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
