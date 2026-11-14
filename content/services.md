@@ -3,9 +3,14 @@ title: "Private AI Assistant — Your Files Stay Private"
 description: "Toolstack delivers a private AI assistant as a finished product: prepared on our own hardware, handed to you ready to use, with your client files never sent to any cloud."
 ---
 
-A private AI assistant is like having a capable colleague who has read all your
-documents — and who cannot leak them. It is proven, openly available AI software
-that I prepare for you and hand over as a finished, ready-to-use product.
+I deliver a private AI assistant as a finished product. You tell me what it should
+know and do; I prepare and test the whole thing on my own hardware; you receive it
+ready to run — with your files never passing through any cloud AI service.
+
+Behind it is proven, openly available AI software — the assistant works like a
+capable colleague who has read all your documents and cannot leak them. What
+you're buying is the preparation and delivery: a working, locked-down system
+instead of a do-it-yourself project.
 
 ## How it works
 
