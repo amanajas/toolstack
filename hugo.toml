@@ -11,3 +11,5 @@ enableRobotsTXT = true
 [markup]
   [markup.highlight]
     style = 'monokai'
+  [markup.goldmark.renderer]
+    unsafe = true

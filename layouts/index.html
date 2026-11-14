@@ -1,6 +1,13 @@
 {{ define "main" }}
 <h1>{{ .Site.Title }}</h1>
 <p>{{ .Site.Params.description }}</p>
+
+<div class="cta">
+  <strong>Now booking: private AI, installed on your hardware.</strong>
+  Latest open-weights models on your GPU box or a rented host — fixed price, measured
+  results. <a href="/services/">See offers →</a>
+</div>
+
 <h2>Latest reviews</h2>
 <ul>
   {{ range first 20 .Site.RegularPages }}

@@ -1,5 +1,14 @@
 body { max-width: 44rem; margin: 2rem auto; padding: 0 1rem; font: 16px/1.6 system-ui, sans-serif; }
+header { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .5rem; }
 header a { font-weight: 700; text-decoration: none; }
+header nav a { font-weight: 500; color: #555; margin-left: 1rem; }
+header nav a:hover, header nav a.active { color: #111; }
+h1 { font-size: 1.6rem; line-height: 1.25; }
+h2 { margin-top: 2.2rem; }
+.offer { border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.2rem; margin: 1.2rem 0; }
+.offer h3 { margin: 0 0 .4rem; }
+.price { color: #111; font-weight: 700; }
+.cta { background: #f4f4f4; border-radius: 8px; padding: 1rem 1.2rem; margin-top: 2rem; }
 footer { border-top: 1px solid #ddd; margin-top: 3rem; padding-top: 1rem; color: #666; font-size: .9rem; }
 time { color: #666; font-size: .9rem; }
 table { border-collapse: collapse; width: 100%; }
