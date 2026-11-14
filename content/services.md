@@ -3,8 +3,8 @@ title: "End-to-End Projects, Done Privately"
 description: "Toolstack takes on end-to-end projects and delivers finished results, with all work done on a private AI setup — your files never pass through any cloud AI service."
 ---
 
-You bring a task and the files it needs. I take it from start to finish and hand
-back the finished result. All the work happens on my own private AI setup — so
+You bring a task and the files it needs. We take it from start to finish and hand
+back the finished result. All the work happens on our own private AI setup — so
 your files never pass through any cloud AI service, and nothing about the job
 leaves my infrastructure.
 
@@ -12,20 +12,20 @@ leaves my infrastructure.
 
 **Your files stay private. Always.** No cloud AI accounts, no API keys, no
 subscriptions — there is simply no path from your material to the internet. The
-assistant that processes your work runs on my own hardware, behind my own walls.
+assistant that processes your work runs on our own hardware, behind our own walls.
 
 ## What a project looks like
 
 1. **You describe the task** and hand over the material (documents, data,
    references).
-2. **I do the work end to end** — processing, drafting, structuring, checking —
+2. **We do the work end to end** — processing, drafting, structuring, checking —
    on my private setup.
 3. **You receive the finished result** in the format you need, on time, with a
    short note on how it was produced.
 
-## What I don't do
+## What we don't do
 
-- **No consulting** — I don't advise on AI strategy or review your plans.
+- **No consulting** — We don't advise on AI strategy or review your plans.
 - **No coaching** — no courses, no live training sessions.
 
 **Contact:** [feedback@toolstack.page](mailto:feedback@toolstack.page) ·
