@@ -10,7 +10,7 @@
 
 <h2>Latest reviews</h2>
 <ul>
-  {{ range first 20 .Site.RegularPages }}
+  {{ range first 20 (where .Site.RegularPages "Section" "posts") }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
