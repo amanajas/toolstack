@@ -1,45 +1,36 @@
 ---
-title: "Private AI Systems — Installed on Your Hardware"
-description: "Toolstack installs private, on-premise AI: the latest open-weights models on your GPU server or a rented cloud host, wired into your tools. Fixed price, measured results."
+title: "Private AI Assistant — Your Files Stay Private"
+description: "Toolstack installs a private AI assistant for your business: a capable AI model on your own hardware, with your client files never leaving your infrastructure."
 ---
 
-Private AI means your documents never leave your infrastructure. No per-token API bills, no
-vendor reading your data, no compliance gap. We install a ChatGPT-class model — GLM-5.3 and
-the latest open weights — on hardware you control, and hand it over working.
+A private AI assistant is like having a capable colleague who has read all your
+documents — and who cannot leak them. It runs on hardware you control, answers
+questions about your files, drafts and summarizes your work, and never sends a
+single byte of your client data to a third-party service.
 
-## Offers
+## The rule we build around
 
-<div class="offer">
-<h3>Compliant AI Pilot — <span class="price">$2,500</span></h3>
-One week. A local model answering questions from your private documents, with a team web
-UI and two weeks of support. The fastest way to find out what private AI does for your
-practice.
-</div>
+**Your client files stay private. Always.** Documents are stored and processed on
+your own server or a dedicated machine in your office. No cloud AI provider ever
+sees them. We set it up so this is enforced by architecture, not by policy — there
+is simply no path from your files to the internet.
 
-<div class="offer">
-<h3>Private AI Build — <span class="price">$5,000–8,000</span></h3>
-Hardware selection and procurement, full install, integrations (CRM, Google Workspace,
-your practice software), agent workflows, staff training. Delivered with documentation
-your team can operate.
-</div>
+## What the assistant does
 
-<div class="offer">
-<h3>Care Plan — <span class="price">$500–1,000/month</span></h3>
-Model updates, uptime monitoring, audit-log checks, prompt and agent tuning. Maintenance
-work, scoped and scheduled — your system stays current.
-</div>
-
-## What we run
-
-We serve GLM-5.3 in production on our own GPU cluster: 60–104 tokens/second measured,
-the full 1,048,576-token context window, vision input, tool calling — on-premise, no
-third-party API. Your evaluation comes with the same measured numbers, not estimates.
+- **Answers questions about your documents** — contracts, cases, patient or client
+  records, policies — reading your whole document corpus, not fragments
+- **Works with your existing tools** — your CRM, Google Workspace, document store —
+  without the data leaving your network
+- **Serves your whole team** through a simple web interface, with per-role access
+- **Uses a capable, current AI model** — modern assistant capability, on your
+  hardware
 
 ## How engagements work
 
-Fixed price, clear deliverables, no open-ended consulting. Every project ends with a
-working system, documentation, and a handoff session. If we cannot show you the result
-on a screen-share before you commit, we don't deserve the job.
+Fixed price, clear deliverables, no open-ended consulting. Every project ends with
+a working assistant, documentation, and a handoff session for your team. If we
+cannot show you the result on a screen-share before you commit, we don't deserve
+the job.
 
 **Contact:** [feedback@toolstack.page](mailto:feedback@toolstack.page) ·
 [Upwork profile](https://www.upwork.com/freelancers/~) <!-- add your profile URL after registering -->
