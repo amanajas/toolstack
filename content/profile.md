@@ -11,7 +11,8 @@ files never leaving your infrastructure. I don't make AI — I install it, like 
 other business software.
 
 **How I work:** fixed-price projects, concrete deliverables, measured results. No
-open-ended consulting. Every engagement ends with a working system, documentation,
+consulting, no coaching — I install and deliver working systems, I don't sell
+opinions or lessons. Every engagement ends with a working system, documentation,
 and a handoff your team can operate.
 
 **Background:** software engineer and operator. I also run [Tool Stack Reviews](/),

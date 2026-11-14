@@ -26,6 +26,16 @@ is simply no path from your files to the internet.
 - **Uses a capable, current AI model** — modern assistant capability, on your
   hardware
 
+## What I don't do
+
+- **No consulting** — I don't advise on your AI strategy or review your plans. I
+  install and deliver working systems; I don't sell opinions.
+- **No coaching** — I don't teach courses or train your staff beyond the handoff
+  session for the system I installed.
+
+If you need advice rather than a working system, I'm not the right hire — and I'll
+say so instead of selling you the wrong thing.
+
 ## How engagements work
 
 Fixed price, clear deliverables, no open-ended consulting. Every project ends with
