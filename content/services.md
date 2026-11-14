@@ -4,11 +4,12 @@ description: "Toolstack installs a private AI assistant for your business: a cap
 ---
 
 A private AI assistant is like having a capable colleague who has read all your
-documents — and who cannot leak them. It runs on hardware you control, answers
-questions about your files, drafts and summarizes your work, and never sends a
-single byte of your client data to a third-party service.
+documents — and who cannot leak them. It is proven, openly available AI software
+that I install and configure on hardware you control. It answers questions about
+your files, drafts and summarizes your work, and never sends a single byte of your
+client data to a third-party service.
 
-## The rule we build around
+## The rule we set up around
 
 **Your client files stay private. Always.** Documents are stored and processed on
 your own server or a dedicated machine in your office. No cloud AI provider ever

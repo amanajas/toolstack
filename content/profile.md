@@ -5,8 +5,10 @@ description: "Thiago Amanajas — Toolstack. Builds private AI systems that keep
 
 ## Thiago Amanajas — Toolstack
 
-I build private AI systems: assistants installed on hardware you control, wired
-into the tools you already use, with your files never leaving your infrastructure.
+I set up private AI assistants for businesses: existing proven AI models, installed and
+configured on hardware you control, wired into the tools you already use, with your
+files never leaving your infrastructure. I don't make AI — I install it, like any
+other business software.
 
 **How I work:** fixed-price projects, concrete deliverables, measured results. No
 open-ended consulting. Every engagement ends with a working system, documentation,
