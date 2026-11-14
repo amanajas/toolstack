@@ -1,48 +1,34 @@
 ---
-title: "Private AI Assistant — Your Files Stay Private"
-description: "Toolstack delivers a private AI assistant as a finished product: prepared on our own hardware, handed to you ready to use, with your client files never sent to any cloud."
+title: "End-to-End Projects, Done Privately"
+description: "Toolstack takes on end-to-end projects and delivers finished results, with all work done on a private AI setup — your files never pass through any cloud AI service."
 ---
 
-I deliver a private AI assistant as a finished product. You tell me what it should
-know and do; I prepare and test the whole thing on my own hardware; you receive it
-ready to run — with your files never passing through any cloud AI service.
-
-Behind it is proven, openly available AI software — the assistant works like a
-capable colleague who has read all your documents and cannot leak them. What
-you're buying is the preparation and delivery: a working, locked-down system
-instead of a do-it-yourself project.
-
-## How it works
-
-1. **You come to me** and describe what the assistant should do and which
-   documents it should know.
-2. **I prepare everything on my own hardware.** The assistant is built, tested,
-   and locked down before you ever receive it. Your files are handled on my
-   equipment under the same privacy rule — nothing goes to any cloud service.
-3. **You receive a finished product**: the assistant on its own machine (or as a
-   package ready to run on yours), with documentation and a recorded walkthrough
-   instead of live training.
+You bring a task and the files it needs. I take it from start to finish and hand
+back the finished result. All the work happens on my own private AI setup — so
+your files never pass through any cloud AI service, and nothing about the job
+leaves my infrastructure.
 
 ## The privacy rule
 
-**Your client files stay private. Always.** Nothing is sent to any cloud AI
-provider — there is no account, no API key, no subscription to any external AI
-service. The assistant works from its own storage, offline if you want.
+**Your files stay private. Always.** No cloud AI accounts, no API keys, no
+subscriptions — there is simply no path from your material to the internet. The
+assistant that processes your work runs on my own hardware, behind my own walls.
 
-## What the assistant can do
+## What a project looks like
 
-- **Answer questions about a defined set of documents** — contracts, cases,
-  records, policies — reading the whole corpus, not fragments
-- **Draft and summarize** based on those documents
-- **Run without any internet connection**, so nothing can leave the machine
+1. **You describe the task** and hand over the material (documents, data,
+   references).
+2. **I do the work end to end** — processing, drafting, structuring, checking —
+   on my private setup.
+3. **You receive the finished result** in the format you need, on time, with a
+   short note on how it was produced.
 
 ## What I don't do
 
-- **No consulting** — I don't advise on your AI strategy or review your plans.
-- **No coaching** — you get documentation and a recorded walkthrough, not live
-  training sessions.
-- **No working inside your systems** — I never need access to your network, your
-  CRM, or your accounts. I prepare the product; you own and operate it.
+- **No consulting** — I don't advise on AI strategy or review your plans.
+- **No coaching** — no courses, no live training sessions.
+- **No working inside your systems** — I never need access to your network,
+  your CRM, or your accounts.
 
 **Contact:** [feedback@toolstack.page](mailto:feedback@toolstack.page) ·
 [Upwork profile](https://www.upwork.com/freelancers/~) <!-- add your profile URL after registering -->
